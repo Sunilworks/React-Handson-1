@@ -1,0 +1,25 @@
+.f1 {
+    display: inline-block;
+  border: 2px solid black;
+  height: 280px;
+  width: 40%;
+  margin: 100px 0px 0px 100px;
+  text-align: center;
+  background-color: rgb(220, 238, 154);
+  border-radius: 20px;
+}
+
+.p1 {
+  color: blueviolet;
+}
+
+.c1 {
+    display: inline-block;
+  border: 2px solid black;
+  height: 280px;
+  width: 40%;
+  margin: 100px 0px 0px 100px;
+  text-align: center;
+  background-color: rgb(220, 238, 154);
+  border-radius: 20px;
+}
